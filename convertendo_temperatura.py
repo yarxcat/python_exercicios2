@@ -1,3 +1,4 @@
+#convertendo a tempetura
 a = float(input('Digite atemperatura em ºC para converter em ºF: '))
 cf = (a* 9/5) + 32
 b = float(input('Digite a temperatura em ºF para converter em ºC: '))
