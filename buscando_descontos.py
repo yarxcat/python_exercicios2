@@ -1,3 +1,4 @@
+#encontra descontos digitando o valor do produto
 print('Buscando descontos')
 a = float(input('Digite o valor do produto desejado: '))
 # desconto de 5%
