@@ -1,3 +1,4 @@
+#buscando o valor do dollar
 import requests
 
 # link publico com o valor atual do dollar
