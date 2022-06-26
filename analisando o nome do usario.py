@@ -1,4 +1,4 @@
-# atividade 022
+#manipulação de str
 
 nome = str(input('Digite seu primeiro e segundo nome: '))
 print('Analiando seu nome...')
